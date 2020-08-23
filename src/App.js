@@ -9,6 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           This is a React page deployed by Travis CI.
+          Testing commit.
         </p>
       </header>
     </div>
